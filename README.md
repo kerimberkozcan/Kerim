@@ -1,34 +1,11 @@
-### Hi, I'm Kerim. <img src="https://media.tenor.com/images/486428053d6e3f90a4b2251ee5f82f56/tenor.gif" height="40" width="50" style="margin: 1px"> 
+<h1 align="center">Hi 👋, I'm Kerim</h1>
+<h3 align="center">19 yrs old programmer/designer nothing much about me i just love coding and art.</h3>
 
-<p><em>19 yrs old programmer/designer nothing much about me i just love coding and art.</em> </br>
+- ⚡ Fun fact **I thin i am funny**
 
-### <img src="https://images6.fanpop.com/image/photos/37500000/Chi-typing-on-a-computer-chis-sweet-home-chis-new-address-37597964-320-240.gif" width="50"> A little more about me..  
-```python
-class Skills:
-    def OfProgramming(Number):
-        show = {
-            "1":"HTML/CSS",
-            "2":"Java",
-            "3":"JavaScript",
-            "4":"PHP",
-            "5":"C#",
-        }
-        return show[Number]
-    def OfLibrarys(Number):
-        show ={
-            "1":"SFML",
-            "2":"SpeechRecognition"
-        }
-        return show[Number]
-    def OfComputer(Number):
-        show = {
-            "1":"AfterEffects",
-            "2":"ZBrush",
-            "3":"Adobe Photoshop",
-            "4":"Adobe Illustrator",
-            "5":"VegasPro"
-        }
-        return show[Number]
-print(Skills.OfProgramming("3"))
-print("I am dumb")
-```
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+</p>
+
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
